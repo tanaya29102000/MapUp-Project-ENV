@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from "react";
 import { parseCSV } from "./Utlity/csvParser";
 import { Bar, Line } from "react-chartjs-2";
